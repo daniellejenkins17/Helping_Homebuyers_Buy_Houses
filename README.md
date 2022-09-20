@@ -5,7 +5,7 @@
 The Business Problem: 
 Homebuyers in Kings County think it’s important to get the most value per dollar, when looking at houses to buy. We created a linear regression model, keeping in mind which factors might influence the price of houses.
 
-Dataset: Kings County House Sales 
+Dataset: Kings County House Sales, 21,597 samples total, from 2014-2015 
 
 Data Cleaning: 
 We dropped irrelevant columns: date, square feet above the basement, coordinates of the location of the house, square footage of the houses for the nearest 15 neighbors, and square footage of the lots of the nearest 15 neighbors. 
