@@ -29,3 +29,5 @@ Number of bathrooms, sqft_living, sqft_lot, waterfront, view, grade, condition, 
 
 Recommendations Based on Coefficients of the Features:
 The more bathrooms you add, the more money you lose on average. Waterfront properties increase the value of the house by $735,600 on average. When the view of the house increases by one unit, the value of the house increases by $63,000 on average. Grade and condition are highly correlated with price, so these are good metrics to use when predicting the price of a house. The square footage of the living area increases the value much more than the square footage of the lots.
+
+![Recommendations based on coefficients](https://i.imgur.com/07z1p42.png)
