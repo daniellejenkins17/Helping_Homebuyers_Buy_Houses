@@ -10,7 +10,6 @@ Dataset: Kings County House Sales, 21,597 samples total, from 2014-2015
 Data Cleaning: 
 We dropped irrelevant columns: date, square feet above the basement, coordinates of the location of the house, square footage of the houses for the nearest 15 neighbors, and square footage of the lots of the nearest 15 neighbors. 
 
-Heatmap of Features: 
 ![Heatmap](https://i.imgur.com/hqtbSng.png)
 
 Baseline Model: 
